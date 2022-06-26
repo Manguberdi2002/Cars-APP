@@ -1,0 +1,45 @@
+{
+  "cars": [
+    {
+      "title": "Captiva 4",
+      "comp": 2,
+      "year": 2018,
+      "color": "#e63333",
+      "id": 1
+    }
+  ],
+  "company": [
+    {
+      "title": "KIA",
+      "id": 1
+    },
+    {
+      "title": "CHEVROLET",
+      "id": 2
+    },
+    {
+      "title": "Mazda",
+      "id": 3
+    },
+    {
+      "title": "GM",
+      "id": 4
+    },
+    {
+      "title": "Lambarghini",
+      "id": 5
+    },
+    {
+      "title": "Mercedess",
+      "id": 6
+    },
+    {
+      "title": "Honda",
+      "id": 7
+    },
+    {
+      "title": "Hyundai",
+      "id": 8
+    }
+  ]
+}
